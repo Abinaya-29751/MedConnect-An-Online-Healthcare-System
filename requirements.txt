@@ -23,7 +23,7 @@ decorator==4.4.1
 distlib==0.3.0
 
 feedfinder2==0.0.4
-feedparser==5.2.1
+feedparser==6.0.11
 filelock==3.0.12
 Flask==1.1.1
 
@@ -72,7 +72,6 @@ pycparser==2.19
 Pygments==2.6.1
 pyler==0.2.0
 pyparsing==2.4.6
-python_version >= 3.8
 
 python-dateutil==2.8.1
 
